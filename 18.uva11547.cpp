@@ -4,7 +4,7 @@
 #include<math.h>
 int main()
 {
-    int t,n,result1, result2, result3, result4,i, result5, result6;
+    int t,n,result1, result2, result3,i;
     scanf("%d", &t);
     while(t--)
     {
